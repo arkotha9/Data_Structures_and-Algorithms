@@ -3,3 +3,4 @@
 - I have also mentioned the time I took for the amount of questions.
 
 ### 17 min for 7 questions
+### 23 min for 2 qns in P2 and 5 min for last qn 
